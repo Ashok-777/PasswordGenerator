@@ -5,8 +5,6 @@ An interactive Password Generator built with HTML, CSS, and JavaScript. It lets 
 An interactive and user-friendly password generator built using **HTML**, **CSS**, and **JavaScript**.  
 This tool helps users create strong, secure passwords with customizable options for length, character types, and instant copy-to-clipboard functionality.  
 
----
-
 ## 🌟 Features  
 
 - Choose password length (**4–20 characters**)  
@@ -15,16 +13,12 @@ This tool helps users create strong, secure passwords with customizable options 
 - **Responsive UI** with clean, modern design  
 - Built using **pure HTML, CSS, and JS** — no frameworks needed  
 
----
-
 ## 🧩 Technologies Used  
 
 - **HTML5** – Structure and layout  
 - **CSS3** – Styling, responsiveness, and effects  
-- **JavaScript (ES6)** – Logic and interactivity  
-
----
-
+- **JavaScript (ES6)** – Logic and interactivity
+  
 ## 📸 Preview  
 
 *(Add a screenshot of your project here, e.g. `assets/screenshot.png`)*  
