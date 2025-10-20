@@ -28,5 +28,3 @@ This tool helps users create strong, secure passwords with customizable options 
 - **JavaScript (ES6)** – Logic and interactivity
 
   ---
-  
-## 📸 Preview  
