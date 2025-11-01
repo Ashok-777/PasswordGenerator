@@ -27,7 +27,12 @@ This tool helps users create strong, secure passwords with customizable options 
 - **CSS3** – Styling, responsiveness, and effects  
 - **JavaScript (ES6)** – Logic and interactivity
 
-  ---
+---
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
   
 ## 💻 Installation & Execution
 
