@@ -1,4 +1,5 @@
-// your code goes here
+// © Ashok-777
+// GitHub: https://github.com/Ashok-777
 const resultEl = document.getElementById("result");
 const lengthEl = document.getElementById("length");
 const uppercaseEl = document.getElementById("uppercase");
@@ -67,3 +68,5 @@ function getRandomSymbol() {
   const symbols = "!@#$%^&*(){}[]=<>/,.";
   return symbols[Math.floor(Math.random() * symbols.length)];
 }
+// © Ashok-777
+// GitHub: https://github.com/Ashok-777
