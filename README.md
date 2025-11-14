@@ -73,6 +73,8 @@ npm install -g live-server
 # Start the server in the project folder
 live-server
 ```
+---
 
-```
-```
+<p align="center">© Ashok-777 | Crafted with ❤️ and curiosity</p>
+
+---
