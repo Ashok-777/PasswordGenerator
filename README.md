@@ -74,6 +74,13 @@ npm install -g live-server
 live-server
 ```
 ---
+## Deployment
+
+This project is deployed using **Vercel**.  
+
+🔗 **Live Demo:** [Password Generator](https://passwordgenerator-livid-seven.vercel.app/)
+
+---
 
 <p align="center">© Ashok-777 | Crafted with ❤️ and curiosity</p>
 
